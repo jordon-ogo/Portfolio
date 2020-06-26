@@ -16,7 +16,7 @@ yarn@v1.21.1 or higher
 
 ---
 
-## How To Use 🔧
+## How To Open 🔧
 
 From your command line, first clone Simplefolio:
 
@@ -30,6 +30,8 @@ $ cd simplefolio
 # Remove current origin repository
 $ git remote remove origin
 ```
+
+Or you can download my Portfolio, unzip it and open a git bash in the project directory.
 
 Then you can install the dependencies either using NPM or Yarn:
 
