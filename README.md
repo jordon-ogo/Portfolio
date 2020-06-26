@@ -31,7 +31,7 @@ $ cd simplefolio
 $ git remote remove origin
 ```
 
-Or you can download my Portfolio, unzip it and open a git bash in the project directory.
+Or you can download the project, unzip it and open a git bash in the project directory.
 
 Then you can install the dependencies either using NPM or Yarn:
 
