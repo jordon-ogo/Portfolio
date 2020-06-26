@@ -28,7 +28,7 @@ $ git clone https://github.com/jordon-ogo/Portfolio
 $ cd Portfolio
 ```
 
-Or you can download the project, unzip it and open a git bash in the project directory.
+Or you can download the project, unzip it and open a git bash in the repository.
 
 Then you can install the dependencies either using NPM or Yarn:
 
