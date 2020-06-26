@@ -25,10 +25,7 @@ From your command line, first clone Simplefolio:
 $ git clone https://github.com/jordon-ogo/Portfolio
 
 # Go into the repository
-$ cd simplefolio
-
-# Remove current origin repository
-$ git remote remove origin
+$ cd Portfolio
 ```
 
 Or you can download the project, unzip it and open a git bash in the project directory.
