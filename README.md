@@ -40,7 +40,7 @@ Using NPM:
 # Install dependencies
 $ npm install
 
-# Start development server
+# Start server
 $ npm start
 ```
 Using Yarn:
@@ -48,7 +48,7 @@ Using Yarn:
 # Install dependencies
 $ yarn
 
-# Start development server
+# Start server
 $ yarn start
 ```
 
@@ -60,14 +60,4 @@ If your run into issues installing the dependencies with NPM, use this command:
 $ sudo npm install --unsafe-perm=true --allow-root
 ```
 
-Once your server has started, go to this url `http://localhost:8080/` and you will see the website running on a Development Server:
-
-<h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.png" alt="Simplefolio" width="100%">
-</h2>
-
----
-
-## Acknowledgments 🎁
-
-I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
+Once your server has started, go to this url `http://localhost:8080/` and you will see the website running locally.
