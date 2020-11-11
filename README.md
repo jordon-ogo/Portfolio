@@ -18,7 +18,7 @@ yarn@v1.21.1 or higher
 
 ## How To Open 🔧
 
-From your command line, first clone Simplefolio:
+From your command line, first clone this repository:
 
 ```bash
 # Clone this repository
